@@ -1,0 +1,41 @@
+import 'package:flutter/material.dart';
+
+const successBorder = _celadon;
+const successBackground = _honeydew2;
+const successIcon = _fern;
+const errorTextColor = _woodSmoke;
+const successCloseIcon = _osloGrey;
+const white = _white;
+const lightRed = _roseWhite;
+const errorBorder = _mistyRose;
+const errorIconContainer = _bittersweet;
+const primary = _puertoRico;
+const divider = _whiteSmoke;
+const disableTextColor = _disableTextColor;
+const textColor = _swamp;
+const red = _sunsetOrange;
+const textFieldColor = _lilyWhite;
+const textSecondary = _grannySmith;
+const darkGreen = _gossamer;
+const black = _black;
+const woodSmoke = _woodSmoke;
+
+
+const _puertoRico = Color(0xff43B7B1);
+const _whiteSmoke = Color(0xffEFEFEF);
+const _mistyRose = Color(0xffFFD6D6);
+const _bittersweet = Color(0xffFA6161);
+const _celadon = Color(0xffB1E5BB);
+const _honeydew2 = Color(0xffE5FFE5);
+const _fern = Color(0xff63C176);
+const _woodSmoke = Color(0xff1E1F1F);
+const _osloGrey = Color(0xff898B8B);
+const _white = Color(0xffffffff);
+const _roseWhite = Color(0xffFCECEC);
+const _disableTextColor = Color(0xff828F89);
+const _swamp = Color(0xff181919);
+const _sunsetOrange = Color(0xffFF4D4D);
+const _lilyWhite = Color(0xffF0F5F3);
+const _grannySmith = Color(0xff828F89);
+const _gossamer = Color(0xff3FA6A0);
+const _black = Color(0xFF000000);
